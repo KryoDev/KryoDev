@@ -1,4 +1,4 @@
-# Hi, I'm Kryo Dev (aka Victor Kryo) 👋
+# Hi, I'm Kryo Dev 👋
 
 Welcome to my personal business GitHub profile. I'm a passionate **Full Stack Developer** dedicated to building innovative and scalable solutions. At [KryoDev.com](https://kryodev.com), I merge modern technologies with streamlined development processes to drive digital transformation across industries.
 
